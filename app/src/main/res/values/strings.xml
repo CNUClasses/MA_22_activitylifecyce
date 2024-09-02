@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MA_22</string>
+    <string name="hello">Open logcat (Alt-6) and then rotate application to see state machine log calls (</string>
+    <string name="diff_text">different text</string>
+</resources>
